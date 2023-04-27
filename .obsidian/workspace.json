@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Content Discovery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70fdf9c31b23d07d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content Discovery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd4f507af4bfbe22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Sets.md",
                 "mode": "source",
                 "source": false
@@ -26,18 +50,6 @@
               "type": "markdown",
               "state": {
                 "file": "Logic symbols.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cdd7c92f4655f2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equals sign variations.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equals sign variations.md",
+                "file": "Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equals sign variations.md",
+                "file": "Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equals sign variations.md"
+                "file": "Sets.md"
               }
             }
           }
@@ -171,11 +183,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18fc04a115a9e64f",
+  "active": "bd4f507af4bfbe22",
   "lastOpenFiles": [
-    "Untitled",
     "Logic symbols.md",
+    "Mathematical proof.md",
+    "Proof by Exhaustion.md",
+    "Robots.txt.md",
+    "Sets.md",
     "Equals sign variations.md",
-    "Sets.md"
+    "Definition of an odd number.md",
+    "Definition of an even number.md",
+    "Content Discovery.md",
+    "favicon.md",
+    "Untitled"
   ]
 }
