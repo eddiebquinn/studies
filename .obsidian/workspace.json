@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Proof.md",
+                "file": "Content Discovery.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematical Proof.md",
+                "file": "Content Discovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical Proof.md",
+                "file": "Content Discovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematical Proof.md"
+                "file": "Content Discovery.md"
               }
             }
           }
@@ -161,19 +161,26 @@
   },
   "active": "f744104d7e25e1c9",
   "lastOpenFiles": [
-    "Mathematical Symbols.md",
-    "Mathematical Proof.md",
-    "Mathematical Definitions.md",
-    "Proof by Deduction.md",
-    "Proof by Exhaustion.md",
+    "S3 Buckets.md",
     "Content Discovery.md",
+    "Common Vulnerabilities and Exposures.md",
+    "Content Management Systems.md",
+    "Disproof by Counter-Example.md",
+    "Dorking.md",
+    "HTTP Headers.md",
+    "Mathematical Definitions.md",
+    "Mathematical Proof.md",
+    "Mathematical Symbols.md",
+    "OSINT.md",
+    "images",
+    "Proof by Exhaustion.md",
+    "Proof by Deduction.md",
     "Robots.txt.md",
     "Equals sign variations.md",
     "Logic symbols.md",
     "Definition of an odd number.md",
     "Definition of an even number.md",
     "Sets.md",
-    "favicon.md",
-    "Untitled"
+    "favicon.md"
   ]
 }
