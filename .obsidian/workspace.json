@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proof by Exhaustion.md",
+                "file": "Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content Discovery.md",
+                "file": "Mathematical Definitions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content Discovery.md",
+                "file": "Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content Discovery.md",
+                "file": "Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content Discovery.md"
+                "file": "Sets.md"
               }
             }
           }
@@ -159,22 +158,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f744104d7e25e1c9",
+  "active": "11d6aed47cd3b466",
   "lastOpenFiles": [
-    "S3 Buckets.md",
-    "Content Discovery.md",
-    "Common Vulnerabilities and Exposures.md",
-    "Content Management Systems.md",
-    "Disproof by Counter-Example.md",
-    "Dorking.md",
-    "HTTP Headers.md",
-    "Mathematical Definitions.md",
-    "Mathematical Proof.md",
-    "Mathematical Symbols.md",
-    "OSINT.md",
-    "images",
     "Proof by Exhaustion.md",
     "Proof by Deduction.md",
+    "Proof by Contradiction.md",
+    "Mathematical Symbols.md",
+    "Mathematical Proof.md",
+    "Mathematical Definitions.md",
+    "Disproof by Counter-Example.md",
+    "Content Discovery.md",
+    "S3 Buckets.md",
+    "Common Vulnerabilities and Exposures.md",
+    "Content Management Systems.md",
+    "Dorking.md",
+    "HTTP Headers.md",
+    "OSINT.md",
+    "images",
     "Robots.txt.md",
     "Equals sign variations.md",
     "Logic symbols.md",

@@ -1,4 +1,5 @@
 topic: #Mathematics 
+Source: GCP A-Level Mathematics (Edexcel) - Complete Revisions & Practise
 
 ---
 - This is sometimes also called 'direct proof' or 'proof by direct argument'.

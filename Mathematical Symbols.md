@@ -1,4 +1,5 @@
-#Mathematics 
+Topic: #Mathematics
+Source: GCP A-Level Mathematics (Edexcel) - Complete Revisions & Practise
 
 ---
 This is a list of common mathemtical definitions that can be refrenced in other notes
