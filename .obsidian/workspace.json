@@ -11,12 +11,8 @@
             "id": "11d6aed47cd3b466",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sets.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,6 +152,12 @@
   },
   "active": "11d6aed47cd3b466",
   "lastOpenFiles": [
+    "ffuf.md",
+    "Content Discovery.md",
+    "gobuster.md",
+    "dirb.md",
+    "Wordlists.md",
+    "Sets.md",
     "Proof by Exhaustion.md",
     "Proof by Deduction.md",
     "Proof by Contradiction.md",
@@ -167,7 +165,6 @@
     "Mathematical Proof.md",
     "Mathematical Definitions.md",
     "Disproof by Counter-Example.md",
-    "Content Discovery.md",
     "S3 Buckets.md",
     "Common Vulnerabilities and Exposures.md",
     "Content Management Systems.md",
@@ -180,7 +177,6 @@
     "Logic symbols.md",
     "Definition of an odd number.md",
     "Definition of an even number.md",
-    "Sets.md",
     "favicon.md"
   ]
 }
