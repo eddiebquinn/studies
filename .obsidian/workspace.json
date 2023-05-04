@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "3e8f6ff8c26c5956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proof by Exhaustion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f744104d7e25e1c9",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Proof by ex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,8 +85,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "bb170dcab2dee90b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Proof by Exhaustion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Proof by Exhaustion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Proof by Exhaustion.md"
+              }
             }
           }
         ]
@@ -150,8 +176,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11d6aed47cd3b466",
+  "active": "3e8f6ff8c26c5956",
   "lastOpenFiles": [
+    "Disproof by Counter-Example.md",
     "ffuf.md",
     "Content Discovery.md",
     "gobuster.md",
@@ -164,7 +191,6 @@
     "Mathematical Symbols.md",
     "Mathematical Proof.md",
     "Mathematical Definitions.md",
-    "Disproof by Counter-Example.md",
     "S3 Buckets.md",
     "Common Vulnerabilities and Exposures.md",
     "Content Management Systems.md",
